@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "https://nefzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : test
+title      : Nefzi Boxingclub
 email      : antsonlennert@gmail.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Lennert Antson
